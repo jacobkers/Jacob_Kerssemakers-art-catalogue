@@ -10,3 +10,7 @@ De verzameling is documentair van aard.
 * de tekst omvat begeleidende contekst, circa 200 stuks korte anekdotes en reisverhalen en functioneert als manifest.
 
 Van elke variant catalogus (nu versie 1 t/m 5) is één enkel fysiek exemplaar gedrukt.
+
+Deze digitale versie kunt U downloaden als .zip pakket via de knop 'Code' rechtsboven.
+
+Jacob Kerssemakers, 2022
