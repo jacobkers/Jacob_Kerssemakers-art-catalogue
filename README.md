@@ -11,6 +11,6 @@ De verzameling is documentair van aard.
 
 Van elke variant van deze catalogus (nu versie 1 t/m 5) is één enkel fysiek exemplaar gedrukt.
 
-Deze digitale versie kunt U downloaden als .zip pakket via de knop 'Code' rechtsboven.
+Deze digitale versie kunt U downloaden als .zip pakket (ca.115 Mb) via de knop 'Code' rechtsboven.
 
 Jacob Kerssemakers, 2022
